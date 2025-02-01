@@ -1,2 +1,2 @@
 # Trial
-This is my first file in git. This is trial
+This is my first file in git. <br> This is trial
